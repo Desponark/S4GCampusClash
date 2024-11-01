@@ -11,7 +11,7 @@ You can play Memory, Labyrinth or Tic Tac Toe while communicating via voice chat
 - Play either Memory, Tic Tac Toe with a quiz or a Labyrinth game against other players
 - Use the inbuilt Voice Chat and Emote Wheel to communicate with other players
 - Customize your appearance and Emote Wheel however you like
-- Explore and find secret collectables in two Campuses that are loosely based on the Hamburg and Berlin S4G Campuses
+- Explore and find secret collectables in two Campuses that are loosely based on the Hamburg and Berlin S4G School for Games Campuses
 
 ## My Roles
 - Team Lead, Engineer Lead, Gameplay Programmer, Network Programmer, Motivator
